@@ -1,0 +1,6 @@
+{
+  "name": "Happy Birthday Sadaf",
+  "description": "A premium, emotionally beautiful, cinematic best-friend birthday surprise celebration for Sadaf.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
